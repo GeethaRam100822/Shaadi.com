@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    border: none;
+    height: auto;
+    width: 88%;
+    margin: auto;
+    background-color: #ccc;
+}
+.head{
+    border: none;
+    height: 130px;
+    width: 100%;
+    background-color: rgb(128, 203, 216);
+    display: flex;
+}
+a{
+    color: white;
+}
+.logo{
+    border: none;
+    height: 80px;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-image: url(./images/shadhi..2\ logo.png);
+    background-repeat: no-repeat;
+}
+.login{
+    border: none;
+    height: 80px;
+    width: 80%;
+   
+}
+.lo1{
+    border: none;
+    height: 80px;
+    width: 30%;
+    display: flex;
+    /* background-color: #ccc; */
+    justify-content: space-evenly;
+    margin-left: 600px;
+    padding-top: 20px;
+}
+.head2{
+
+        border: solid 1px black;
+        height: 100px;
+        width: 100%;
+        background-color: rgb(56, 55, 55); 
+        color: white ;
+        
+}
+.h2{
+    border: none;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+        justify-content: space-evenly;
+}
+.h3{
+    border: none;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+        justify-content: space-evenly;
+}
+.mini{
+    border: none;
+    height:auto;
+    width: 90%;
+    background-color: white;
+    margin: auto;
+}
+.min1{
+    border: none;
+    height:80px;
+    width: 100%;
+    background-color: white;
+    font-size: 40px;
+padding-top: 20px ;
+}
+.min2{
+    border: none;
+    height:30px;
+    width: 180px;
+    color: grey;
+}
+.min22{
+    border: none ;
+    height:50px;
+    width: 100%;
+    background-color: white;
+padding-top: 20px ;
+display:flex;
+}
+.but{
+    border: none ;
+    height:40px;
+    width: 100%;
+    background-color: white;
+   
+}
+.b{
+   background-color: black;
+    color: azure;
+}
+.l{
+    background-color: blue;
+}
+.mpic{
+    border: none ;
+    height:80px;
+    width: 100%;
+
+}
+.mpic1{
+    border: none;
+    height:80px;
+    width:250px;
+    margin: auto;
+    background-image: url(./images/shadhi..2\ logo.png);
+    background-repeat: no-repeat;
+    background-color: black;
+}
+.pic2{
+    border: none;
+    height: 600px;
+    width: 96%;
+    margin: auto;
+}
+   .imm1{
+    border:none;
+    height: 600px;
+    width: 100%;
+  
+   }
+.para11{
+    border: none;
+    height: 200px;
+    width: 96%;
+    margin-top: 20px;
+    text-align: left;
+    font-size: large;margin: auto;
+    
+}
+.para12{
+    border: none;
+    /* height: 200px; */
+    width: 96%;
+    text-align: left;
+    font-size: large;margin: auto;
+    color: rgb(48, 47, 47);
+    /* background-color: aliceblue; */
+    
+}
+.res{
+    border: none;
+    height: 90px;
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    color: rgb(48, 47, 47);
+    background-color: aliceblue;
+}
+.some{
+    border: none;
+    height: 130px;
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    font-size: large;
+    background-color: white;
+    color: rgb(48, 47, 47);
+}
+.com{
+    border: none;
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    color: rgb(48, 47, 47);
+    font-size: 30px;
+    text-align: center;background-color: white;
+}
+.foote{
+    border: none;
+    height: 60px;
+    width: 100%;
+    background-color:black;
+    color:white;
+    padding-top: 20px;
+}
+   

@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    border: none;
+    height: auto;
+    width: 88%;
+    margin: auto;
+    background-color: #ccc;
+}
+.head{
+    border: none;
+    height: 130px;
+    width: 100%;
+    background-color: rgb(128, 203, 216);
+    display: flex;
+}
+.logo{
+    border: none;
+    height: 80px;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-image: url(./images/shadhi..2\ logo.png);
+    background-repeat: no-repeat;
+}
+.login{
+    border: none;
+    height: 80px;
+    width: 80%;
+   
+}
+.lo1{
+    border: none;
+    height: 80px;
+    width: 30%;
+    display: flex;
+    /* background-color: #ccc; */
+    justify-content: space-evenly;
+    margin-left: 600px;
+    padding-top: 20px;
+}
+.head2{
+
+        border: solid 1px black;
+        height: 100px;
+        width: 100%;
+        background-color: rgb(56, 55, 55); 
+        color: white ;
+        
+}
+.h2{
+    border: none;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+        justify-content: space-evenly;
+}
+.h3{
+    border: none;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+        justify-content: space-evenly;
+}
+a{
+    color: white;
+}
+.box{
+    margin-top: 50px;
+    border: none;
+    height: 450px;
+    width: 100%;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1{
+    border: none;
+    height: 400px;
+    width: 350px;
+     /* background-color:green;  */
+}
+.im1{
+    border: none;
+    height: 250px;
+    background-color:white;
+ 
+   
+}
+.ims{
+    height: 250px;
+    width: 350px;
+}
+.paar{
+    border: none;
+    height: 130px;
+    background-color:white;
+    color: black;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.para2{
+    border: none;
+    height: 180px;
+    background-color: #ccc;
+    color: black;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.foote{
+    border: none;
+    height: 60px;
+    width: 100%;
+    background-color:black;
+    color:white;
+    padding-top: 20px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+}
+   
